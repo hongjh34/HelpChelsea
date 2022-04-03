@@ -19,4 +19,4 @@ for _ in range(n):
 
     maxPlayerName = playerNames[maxIdx]  #playerNames배열에서 maxIdx의 선수 이름을 maxPlayerName에 저장한다.
 
-    print(maxPlayerName)   #maxPlayerName를 출력한다.
+    print("최고 연봉 선수는 : " + maxPlayerName)   #maxPlayerName를 출력한다.
